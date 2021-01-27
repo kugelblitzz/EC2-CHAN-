@@ -1,0 +1,2 @@
+﻿# DiscordBotTemplate
+Please End Me

@@ -1,0 +1,4 @@
+const config = require("./config/config")
+
+node_modules
+config/config.js
