@@ -1,4 +1,3 @@
-const config = require("./config/config")
-
+awsconfig.json
 node_modules
 config/config.js
