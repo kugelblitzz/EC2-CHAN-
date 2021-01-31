@@ -3,7 +3,6 @@ const bot = new Discord.Client();
 const config = require('./config/example.config');
 
 var AWS = require('aws-sdk');
-
 AWS.config.update({region: 'ap-southeast-1'});
 var ec2 = new AWS.EC2({apiVersion: '2016-11-15'});
 var params ={InstanceIds: config.instanceIDS, DryRun: false};
