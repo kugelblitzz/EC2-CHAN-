@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const config = require('./config/example.config');
+const config = require('./config/config');
 
 var AWS = require('aws-sdk');
 AWS.config.update({region: 'ap-southeast-1'});
