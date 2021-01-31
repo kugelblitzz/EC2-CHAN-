@@ -1,5 +1,5 @@
 module.exports = {
-    Token: "ODAzOTMxMDM1ODA0NDk5OTc5.YBE9Hw.ON5NFzWKrCyMrzXsVYdWwoSrVjQ",
+    Token: "ODAzOTMxMDM1ODA0NDk5OTc5.YBE9dasdasHw.ON5NFzWdasdasdDKrCyMrzXsVYdWwoSrVjQ",
     Prefix: ">",
     Role:"igibuattention",
     Status:"with Kugel-kun's Computer's",
